@@ -80,7 +80,7 @@ button:hover {
 
 @media screen and (max-width: 550px) {
     .parent {
-        padding: 35% 0 27% 0;
+        padding: 25% 0 25% 0;
     }
 
     h1 {
