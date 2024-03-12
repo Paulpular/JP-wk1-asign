@@ -65,22 +65,23 @@ button:hover {
 
 @media screen and (max-width: 850px) {
     .parent {
-        padding-top: 10%;
+        padding-top: 15%;
     }
     .paragraph1 {
-        margin: 30px 0 3px 0;
-        padding: 0 25% 0 25%;
+        margin: 30px 0 5px 0;
+        padding: 0 20% 0 20%;
     }
     
     .paragraph2 {
-        margin: 3px 0 19px 0;
-        padding: 0 25% 0 25%;
+        margin: 5px 0 19px 0;
+        padding: 0 20% 0 20%;
     }
 }
 
 @media screen and (max-width: 550px) {
     .parent {
-        padding-top: 18%;
+        padding-top: 20%;
+        width: 100%;
     }
 
     h1 {
@@ -89,12 +90,12 @@ button:hover {
 
     .paragraph1 {
         margin: 30px 0 5px 0;
-        padding: 0 15% 0 15%;
+        padding: 0 10% 0 10%;
     }
     
     .paragraph2 {
         margin: 5px 0 19px 0;
-        padding: 0 15% 0 15%;
+        padding: 0 10% 0 10%;
     }
 
     button {
