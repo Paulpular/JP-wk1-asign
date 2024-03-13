@@ -2,10 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-}
-
-body {
-    background-color: rgb(104, 103, 103);
+    background-color: white;
 }
 
 .parent {
@@ -65,16 +62,16 @@ button:hover {
 
 @media screen and (max-width: 850px) {
     .parent {
-        padding: 15% 0 15% 0;
+        padding: 15% 0 15% 0
     }
     .paragraph1 {
         margin: 30px 0 5px 0;
-        padding: 0 20% 0 20%;
+        padding: 0 10% 0 10%;
     }
     
     .paragraph2 {
         margin: 5px 0 19px 0;
-        padding: 0 20% 0 20%;
+        padding: 0 10% 0 10%;
     }
 }
 
@@ -85,16 +82,17 @@ button:hover {
 
     h1 {
         margin-top: 15px;
+        margin-bottom: 5px;
     }
 
     .paragraph1 {
         margin: 30px 0 5px 0;
-        padding: 0 10% 0 10%;
+        padding: 0 5% 0 5%;
     }
     
     .paragraph2 {
         margin: 5px 0 20px 0;
-        padding: 0 10% 0 10%;
+        padding: 0 5% 0 5%;
     }
 
     button {
