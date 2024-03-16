@@ -54,10 +54,6 @@ button {
     cursor: pointer;
 }
 
-/* button:hover {
-    color: aquamarine;
-} */
-
 @media screen and (max-width: 850px) {
     .parent {
         padding: 15% 0 15% 0
